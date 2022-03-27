@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 82bc85fb-7261-480f-804a-0955c4f62bee
 resourcetype: Document
 title: Hydrodynamics and Light Scattering
 uid: 9654ed29-627f-2506-ecf7-f4b266501eff
