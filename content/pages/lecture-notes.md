@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course, along with the
+  list of topics and subtopics, organized by chapter.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ SUBTOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Stochastic Processes and Brownian Motion (PDF)]({{< baseurl >}}/resources/mit5_72s12_master1)
+[Stochastic Processes and Brownian Motion (PDF)](/courses/5-72-statistical-mechanics-spring-2012/resources/mit5_72s12_master1)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -68,7 +70,7 @@ SUBTOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Non-equilibrium Thermodynamics (PDF)]({{< baseurl >}}/resources/mit5_72s12_master2)
+[Non-equilibrium Thermodynamics (PDF)](/courses/5-72-statistical-mechanics-spring-2012/resources/mit5_72s12_master2)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -94,7 +96,7 @@ SUBTOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Hydrodynamics and Light Scattering (PDF)]({{< baseurl >}}/resources/mit5_72s12_master3)
+[Hydrodynamics and Light Scattering (PDF)](/courses/5-72-statistical-mechanics-spring-2012/resources/mit5_72s12_master3)
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -114,7 +116,7 @@ SUBTOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Time Correlation Functions (PDF)]({{< baseurl >}}/resources/mit5_72s12_master4)
+[Time Correlation Functions (PDF)](/courses/5-72-statistical-mechanics-spring-2012/resources/mit5_72s12_master4)
 {{< tdclose >}}
 {{< tdopen >}}
 
