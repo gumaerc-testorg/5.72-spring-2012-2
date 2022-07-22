@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, assignments, the final project, grading,
+  and the schedule of lecture topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a85dd9de-dc0e-0c22-0e82-a1310003e9e8
 ---
@@ -12,7 +17,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Course Description
 ------------------
 
-In this course we will discuss principles and methods of statistical mechanics. Topics will include: classical and quantum statistics, grand ensembles, fluctuations, molecular distribution functions, and other topics in equilibrium statistical mechanics. Topics in thermodynamics and statistical mechanics of irreversible processes will also be covered.
+This course discusses the principles and methods of non-equilibrium statistical mechanics. Basic topics covered are stochastic processes, regression and response theory, molecular hydrodynamics, and complex liquids. Selected applications, including fluctuation theorems, condensed phase reaction rate theory, electron transfer dynamics, enzymatic networks, photon counting statistics, single molecule kinetics, reaction-controlled diffusion, may also be discussed.
 
 Prerequisites
 -------------
@@ -26,17 +31,17 @@ Textbooks
 
 The following is a list of recommended textbooks that you may find useful for this course. No required readings will be assigned.
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0486647412/ref=nosim/mitopencourse-20) Groot, Sybren Ruurds de, and Peter Mazur. _Non-Equilibrium Thermodynamics_. Dover Publications, 2011. ISBN: 9780486647418.
+Groot, Sybren Ruurds de, and Peter Mazur. _Non-Equilibrium Thermodynamics_. Dover Publications, 2011. ISBN: 9780486647418.
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0444529659/ref=nosim/mitopencourse-20) Van Kampen, N. G. _Stochastic Processes in Physics and Chemistry_. Elsevier, 2007. ISBN: 9780444529657. \[Preview with [Google Books](http://books.google.com/books?id=N6II-6HlPxEC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
+Van Kampen, N. G. _Stochastic Processes in Physics and Chemistry_. Elsevier, 2007. ISBN: 9780444529657. \[Preview with [Google Books](http://books.google.com/books?id=N6II-6HlPxEC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0070065608/ref=nosim/mitopencourse-20) Boon, Jean-Pierre, and Sidney Yip. _Molecular Hydrodynamics_. McGraw-Hill, 1980. ISBN: 9780070065604.
+Boon, Jean-Pierre, and Sidney Yip. _Molecular Hydrodynamics_. McGraw-Hill, 1980. ISBN: 9780070065604.
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0471595209/ref=nosim/mitopencourse-20) Reichl, Linda E. _ A Modern Course in Statistical Physics_. Wiley-Interscience, 1998. ISBN: 9780471595205.
+Reichl, Linda E. _A Modern Course in Statistical Physics_. Wiley-Interscience, 1998. ISBN: 9780471595205.
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0123705355/ref=nosim/mitopencourse-20) Hansen, Jean-Pierre, and Ian R. McDonald. _Theory of Simple Liquids_. Elsevier Academic Press, 2006. ISBN: 9780123705358. \[Preview with [Google Books](http://books.google.com/books?id=Uhm87WZBnxEC&pg=Pafrontcover)\]
+Hansen, Jean-Pierre, and Ian R. McDonald. _Theory of Simple Liquids_. Elsevier Academic Press, 2006. ISBN: 9780123705358. \[Preview with [Google Books](http://books.google.com/books?id=Uhm87WZBnxEC&pg=Pafrontcover)\]
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/1891389157/ref=nosim/mitopencourse-20) McQuarrie, Donald A. _Statistical Mechanics_. University Science Books, 2000. ISBN: 9781891389153.
+McQuarrie, Donald A. _Statistical Mechanics_. University Science Books, 2000. ISBN: 9781891389153.
 
 Assignments
 -----------
