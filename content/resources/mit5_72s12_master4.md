@@ -5,6 +5,7 @@ file: /courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/902154dd2d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Calculations of Time Correlation Functions
 uid: 902154dd-2d50-becd-c087-8ee12052ef87
 ---
 This file contains information regarding time correlation functions.
-

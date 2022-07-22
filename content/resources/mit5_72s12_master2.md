@@ -5,6 +5,7 @@ file: /courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/20b4677409
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Non-equilibrium Thermodynamics
 uid: 20b46774-09a8-d05f-23f1-598c9929e899
 ---
 This resource contains information regarding non-equilibrium thermodynamics.
-
