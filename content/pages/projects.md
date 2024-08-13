@@ -8,7 +8,6 @@ ocw_type: CourseSection
 title: Projects
 uid: 13ad4409-1dfe-f779-7d50-84486b59c34d
 ---
-
 For the final projects, you must select any two project topics from the following list:
 
 1.  Barrier crossing and Kramers' turnover
@@ -22,4 +21,4 @@ You are advised, but not required, to choose one from project 1–3 on reaction 
 
 Complete the final exam independently without discussion with your classmates. You are encouraged to use references and lecture notes. Show all your steps, in a clear and orderly way. Justify your answers in detail to ensure full credits. Each project is 100 points, and the full score of the final exam is 200 points.
 
-Final Projects ([PDF](/courses/5-72-statistical-mechanics-spring-2012/resources/mit5_72s12_finalprojects))
+Final Projects ({{% resource_link 276599d1-6c71-f26e-6071-06d77896d630 "PDF" %}})

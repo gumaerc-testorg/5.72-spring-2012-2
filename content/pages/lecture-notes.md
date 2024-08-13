@@ -8,7 +8,6 @@ ocw_type: CourseSection
 title: Lecture Notes
 uid: 82bc85fb-7261-480f-804a-0955c4f62bee
 ---
-
 Lecture notes were originally prepared by Tim Kowalczyk and Kara Manke, and updated by Chern Chuang, Thomas Avila, and Michael Mavros, in collaboration with Professor Cao.
 
 {{< tableopen >}}
@@ -32,7 +31,7 @@ SUBTOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Stochastic Processes and Brownian Motion (PDF)](/courses/5-72-statistical-mechanics-spring-2012/resources/mit5_72s12_master1)
+{{% resource_link 05d10d2e-5952-f3b9-1b10-ba1305b46500 "Stochastic Processes and Brownian Motion (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -70,7 +69,7 @@ SUBTOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Non-equilibrium Thermodynamics (PDF)](/courses/5-72-statistical-mechanics-spring-2012/resources/mit5_72s12_master2)
+{{% resource_link 20b46774-09a8-d05f-23f1-598c9929e899 "Non-equilibrium Thermodynamics (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -96,7 +95,7 @@ SUBTOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Hydrodynamics and Light Scattering (PDF)](/courses/5-72-statistical-mechanics-spring-2012/resources/mit5_72s12_master3)
+{{% resource_link 9654ed29-627f-2506-ecf7-f4b266501eff "Hydrodynamics and Light Scattering (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -116,7 +115,7 @@ SUBTOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Time Correlation Functions (PDF)](/courses/5-72-statistical-mechanics-spring-2012/resources/mit5_72s12_master4)
+{{% resource_link 902154dd-2d50-becd-c087-8ee12052ef87 "Time Correlation Functions (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
