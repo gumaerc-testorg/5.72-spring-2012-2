@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding time correlation functions.
-file: /courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/902154dd2d50becdc0878ee12052ef87_MIT5_72S12_master4.pdf
+file: /ol-ocw-studio-app/courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/902154dd2d50becdc0878ee12052ef87_MIT5_72S12_master4.pdf
 file_size: 337418
 file_type: application/pdf
 learning_resource_types:
