@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding non-equilibrium thermodynamics.
-file: /ol-ocw-studio-app/courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/20b4677409a8d05f23f1598c9929e899_MIT5_72S12_master2.pdf
+file: /courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/20b4677409a8d05f23f1598c9929e899_MIT5_72S12_master2.pdf
 file_size: 251261
 file_type: application/pdf
 learning_resource_types:
