@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding stochastic processes and
   brownian motion.
-file: /ol-ocw-studio-app/courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/05d10d2e5952f3b91b10ba1305b46500_MIT5_72S12_master1.pdf
+file: /courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/05d10d2e5952f3b91b10ba1305b46500_MIT5_72S12_master1.pdf
 file_size: 316722
 file_type: application/pdf
 learning_resource_types:
