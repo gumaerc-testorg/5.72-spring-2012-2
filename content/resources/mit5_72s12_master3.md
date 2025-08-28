@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding hydrodynamics and light
   scattering.
-file: /courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/9654ed29627f2506ecf7f4b266501eff_MIT5_72S12_master3.pdf
+file: /ol-ocw-studio-app/courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/9654ed29627f2506ecf7f4b266501eff_MIT5_72S12_master3.pdf
 file_size: 392046
 file_type: application/pdf
 learning_resource_types:
