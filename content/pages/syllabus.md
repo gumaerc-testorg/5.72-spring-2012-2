@@ -33,13 +33,13 @@ The following is a list of recommended textbooks that you may find useful for th
 
 Groot, Sybren Ruurds de, and Peter Mazur. _Non-Equilibrium Thermodynamics_. Dover Publications, 2011. ISBN: 9780486647418.
 
-Van Kampen, N. G. _Stochastic Processes in Physics and Chemistry_. Elsevier, 2007. ISBN: 9780444529657. \[Preview with {{% resource_link "bc239059-89a0-45cf-8a3d-186ee539d55d" "Google Books" %}}\]
+Van Kampen, N. G. _Stochastic Processes in Physics and Chemistry_. Elsevier, 2007. ISBN: 9780444529657. \[Preview with [Google Books](http://books.google.com/books?id=N6II-6HlPxEC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
 
 Boon, Jean-Pierre, and Sidney Yip. _Molecular Hydrodynamics_. McGraw-Hill, 1980. ISBN: 9780070065604.
 
 Reichl, Linda E. _A Modern Course in Statistical Physics_. Wiley-Interscience, 1998. ISBN: 9780471595205.
 
-Hansen, Jean-Pierre, and Ian R. McDonald. _Theory of Simple Liquids_. Elsevier Academic Press, 2006. ISBN: 9780123705358. \[Preview with {{% resource_link "d7a24bcc-b933-41d9-9b6d-1023fea08662" "Google Books" %}}\]
+Hansen, Jean-Pierre, and Ian R. McDonald. _Theory of Simple Liquids_. Elsevier Academic Press, 2006. ISBN: 9780123705358. \[Preview with [Google Books](http://books.google.com/books?id=Uhm87WZBnxEC&pg=Pafrontcover)\]
 
 McQuarrie, Donald A. _Statistical Mechanics_. University Science Books, 2000. ISBN: 9781891389153.
 
